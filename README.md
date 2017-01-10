@@ -1,2 +1,5 @@
 # Customer-Analytics-Visualization
-Customer Analytics for Expedia.com using Alteryx &amp; Tableau
+Customer Analytics of Expedia.com users using Alteryx &amp; Tableau
+
+Domain: Hotels Booking via Expedia
+
